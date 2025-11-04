@@ -1,7 +1,8 @@
 {
-  "name": "shoppingcart",
+  "name": "e-plantShopping",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/vishnuvb5991-spec/e-plantShopping.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
